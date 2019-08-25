@@ -162,4 +162,3 @@ SDKROOT=$(xcrun --sdk iphoneos --show-sdk-path) cmake -D NO_PTEX=1 -D NO_DOC=1 \
 -DNO_CLEW=1       // disable CLEW wrapper library
 -DNO_METAL=1      // disable Metal
 ````
-
